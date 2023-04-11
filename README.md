@@ -1,5 +1,5 @@
 ### School-Management-System
-<!--
+
 import getpass
 import os
 def addStudent(id,name,grade,m1,m2,m3,m4,m5):
@@ -216,4 +216,3 @@ while(True):
         print("Logged Out\nThank You!")
         exit()       
 
--->
